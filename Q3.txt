@@ -1,0 +1,21 @@
+for 
+Actual  prediction
+0       0
+1       1
+0       1
+1       0
+1       0
+
+The confusion_matrix is ,(0 as False and 1 as True)
+
+        positive    negative
+
+positive    1           1
+
+negative    2           1
+
+so,
+ TP=1
+ FP=1
+ FN=2
+ TN=1
